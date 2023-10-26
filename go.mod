@@ -1,4 +1,4 @@
-module go-optional
+module github.com/jd78/go-optional
 
 go 1.21
 
